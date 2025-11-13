@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🌱 Skills
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,c,cpp,python,html,css,js,ts" />
+<br>
+
+## 📊 GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=haru-2769&short_numbers=true)](https://git.io/streak-stats)
