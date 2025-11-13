@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=haru-2769&theme=dracula&hide_border=false&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats-lovat-eight.vercel.app?user=haru-2769&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
