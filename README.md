@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a graduate student specializing in Software Engineering.
+
 <!--
 **haru-2769/haru-2769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
