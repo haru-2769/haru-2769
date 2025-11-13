@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 Skills
+## 🌱 Languages
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,c,cpp,python,html,css,js,ts" />
+<br>
+
+## 💻 Tools
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gradle,maven,git,githubactions,ubuntu,docker" />
 <br>
 
 ## 📊 GitHub Stats
